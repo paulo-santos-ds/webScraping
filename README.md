@@ -10,4 +10,4 @@ Além disso, existem questões de qualidade dos dados no web scraping. Dependend
 podem conter erros ou imprecisões. Por isso, é importante que os usuários do web scraping validem e verifiquem a qualidade dos dados coletados antes de usá-los para 
 análise.
 O web scraping é uma técnica poderosa de coleta de dados que pode ser usada para obter informações úteis da web. No entanto, é importante considerar questões éticas e
-legais e garantir a qualidade dos dados coletados antes de utilizá-los para análise.
+legais e garantir a qualidade dos dados coletados antes de utilizá-los para análise. A seguir iremos utilizar esta tecnica para coletar dados do site de fundos imobiliarios mais conhecido e mais uzado atualmente. esse trabalho tem como objetivo prever o preço futuro dos fundos imobiliario, vale lembrar que não e recomendação, somente estudo de machine learning.
